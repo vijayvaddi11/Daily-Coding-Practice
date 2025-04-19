@@ -19,6 +19,16 @@ I solve interesting problems regularly to improve my skills in:
 
 ---
 
+## 📚 What you will find here
+
+- ✅ Daily coding questions
+- ✅ PrepInsta / LeetCode / GFG / Practice sets
+- ✅ Clean and optimized Python solutions
+- ✅ Simple code explanations
+
+---
+
+
 ## My Goal
 To build consistency and strong problem-solving skills! 🚀.
 "Consistency is the key to mastery. Solving problems daily to strengthen my DSA skills and get better every day."
