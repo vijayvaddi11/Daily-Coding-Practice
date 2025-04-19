@@ -1,9 +1,10 @@
-# cook your dish here
-i = int(input())
-strI=str(i)
+# Q5. Find Strong Nuber or Not
+
+input_num = int(input())
+str_num=str(input_num)
 li=[]
 
-for num in strI:
+for num in str_num:
     fact =1
     num=int(num)
     while num>=1:
@@ -11,7 +12,10 @@ for num in strI:
         num-=1
     li.append(fact)    
 
-print('It is a Strong Number') if sum(li)==i else print('It is not a Strong Number')
+if sum(li)==input_num:
+    print('It is a Strong Number') 
+else:
+    print('It is not a Strong Number')
     
     
  
