@@ -15,4 +15,4 @@ input_arr = list(map(int,input().split()))
 palindrome_arr = palindrome(input_arr)
 
 print(f'Longest Palindrome : {max(palindrome_arr)}')
-
+ 
