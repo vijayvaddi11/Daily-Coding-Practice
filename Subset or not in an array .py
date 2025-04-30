@@ -29,5 +29,5 @@ set_b = set(b)
 
 if all(item in set_b for item in a):
     print("yes")
-else:
+else: 
     print("no")
