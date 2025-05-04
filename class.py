@@ -8,4 +8,4 @@ class Car:
 
 my_car = Car("mahindra","thar")
 print(my_car.model)
-print(my_car.full_name())
+print(my_car.full_name()) 
