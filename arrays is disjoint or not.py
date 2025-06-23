@@ -11,3 +11,13 @@ if count >=1:
     print(" Not Disjoint")
 else:
     print("Disjoint")
+
+
+
+'''arr1 = set(map(int, input("Enter elements of first array: ").split()))
+arr2 = set(map(int, input("Enter elements of second array: ").split()))
+
+if arr1.isdisjoint(arr2):
+    print("Disjoint")
+else:
+    print("Not Disjoint")'''
