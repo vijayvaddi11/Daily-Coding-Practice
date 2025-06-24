@@ -1,13 +1,10 @@
 #1108. Defanging an IP Address
-'''Given a valid (IPv4) IP address, return a defanged version of that IP address.
+#Problem Link: https://leetcode.com/problems/defanging-an-ip-address/description/
 
-A defanged IP address replaces every period "." with "[.]".
-
-'''
-
-a="1.1.1.1"
-for i in a :
-    if i =='.':
-        a=a.replace('.','[.]')
-        break
-print(a)        
+class Solution:
+    def defangIPaddr(self, address: str) -> str:
+        for i in address:
+            if i =='.':
+                address =address.replace('.','[.]')  
+                break  
+        return address
