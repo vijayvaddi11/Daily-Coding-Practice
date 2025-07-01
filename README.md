@@ -32,3 +32,14 @@ I solve interesting problems regularly to improve my skills in:
 ## My Goal
 To build consistency and strong problem-solving skills! 🚀.
 "Consistency is the key to mastery. Solving problems daily to strengthen my DSA skills and get better every day."
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+<!---LeetCode Topics End-->
