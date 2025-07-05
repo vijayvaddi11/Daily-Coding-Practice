@@ -8,6 +8,4 @@ class Solution:
     	for i in matrix:
     	    if x in i:
     	        return True
-    	        break
-            else:
-                continue
+
