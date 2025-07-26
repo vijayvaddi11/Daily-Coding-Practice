@@ -7,4 +7,4 @@ class Solution:
         if n==0:
             return
         print(n,end=' ')
-        this.printGfg(n-1)
+        self.printGfg(n-1)
