@@ -3,5 +3,8 @@
 class Solution:
     def printGfg(self, n):
         # Code here
-        for i in range(n):
-            print('GFG', end=' ')
+        #using reccursion
+        if n==0:
+            return
+        print(n,end=' ')
+        this.printGfg(n-1)
