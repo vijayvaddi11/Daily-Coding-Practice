@@ -42,6 +42,7 @@ To build consistency and strong problem-solving skills! 🚀.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,4 +51,16 @@ To build consistency and strong problem-solving skills! 🚀.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0125-valid-palindrome) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
