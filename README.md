@@ -42,4 +42,12 @@ To build consistency and strong problem-solving skills! 🚀.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
