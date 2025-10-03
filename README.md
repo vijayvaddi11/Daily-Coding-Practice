@@ -51,9 +51,11 @@ To build consistency and strong problem-solving skills! 🚀.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0412-fizz-buzz) |
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -63,4 +65,8 @@ To build consistency and strong problem-solving skills! 🚀.
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1013-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
