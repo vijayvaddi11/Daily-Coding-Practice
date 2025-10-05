@@ -58,6 +58,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | ------- |
 | [0009-palindrome-number](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -67,6 +68,7 @@ To build consistency and strong problem-solving skills! 🚀.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
