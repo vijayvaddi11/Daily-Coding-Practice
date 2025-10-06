@@ -37,6 +37,7 @@ To build consistency and strong problem-solving skills! 🚀.
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1603-running-sum-of-1d-array) |
@@ -48,6 +49,7 @@ To build consistency and strong problem-solving skills! 🚀.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0125-valid-palindrome) |
 ## String
 |  |
