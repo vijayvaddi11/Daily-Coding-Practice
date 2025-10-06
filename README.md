@@ -39,6 +39,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1603-running-sum-of-1d-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1603-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -94,4 +95,8 @@ To build consistency and strong problem-solving skills! 🚀.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0231-power-of-two) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
