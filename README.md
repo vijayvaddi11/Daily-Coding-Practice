@@ -40,6 +40,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0941-sort-array-by-parity](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0941-sort-array-by-parity) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1603-running-sum-of-1d-array) |
 ## Dynamic Programming
@@ -53,6 +54,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0125-valid-palindrome) |
+| [0941-sort-array-by-parity](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0941-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
@@ -90,6 +92,7 @@ To build consistency and strong problem-solving skills! 🚀.
 ## Sorting
 |  |
 | ------- |
+| [0941-sort-array-by-parity](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0941-sort-array-by-parity) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
