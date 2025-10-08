@@ -1,4 +1,5 @@
 class Solution:
+    #manually without using inbuild fn
     def stripRemover(self,s):
         n=len(s)
         start=0
