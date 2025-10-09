@@ -43,6 +43,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0941-sort-array-by-parity) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1603-running-sum-of-1d-array) |
@@ -62,6 +63,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | [0151-reverse-words-in-a-string](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0941-sort-array-by-parity) |
 ## String
 |  |
@@ -100,10 +102,12 @@ To build consistency and strong problem-solving skills! 🚀.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0941-sort-array-by-parity) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -130,4 +134,5 @@ To build consistency and strong problem-solving skills! 🚀.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
