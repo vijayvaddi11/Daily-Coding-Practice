@@ -37,6 +37,7 @@ To build consistency and strong problem-solving skills! 🚀.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -96,6 +97,7 @@ To build consistency and strong problem-solving skills! 🚀.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0001-two-sum) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
