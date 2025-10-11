@@ -46,6 +46,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | [0349-intersection-of-two-arrays](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0941-sort-array-by-parity) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1580-shuffle-the-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1791-richest-customer-wealth) |
 ## Dynamic Programming
