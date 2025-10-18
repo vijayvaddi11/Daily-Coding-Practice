@@ -40,6 +40,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | [0001-two-sum](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -60,6 +61,7 @@ To build consistency and strong problem-solving skills! 🚀.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0151-reverse-words-in-a-string) |
@@ -111,6 +113,7 @@ To build consistency and strong problem-solving skills! 🚀.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0948-sort-an-array) |
