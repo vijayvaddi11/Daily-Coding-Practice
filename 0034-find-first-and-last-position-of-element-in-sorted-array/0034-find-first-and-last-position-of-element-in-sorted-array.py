@@ -35,12 +35,8 @@ class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
         lb = self.lowerBound(nums,target)
         ub = self.upperBound(nums,target)
-        set1= set(nums)
-        if target in set1:
-            if lb != ub-1:
-                return [lb,ub-1]
-            elif lb == ub-1:
-                return [lb,ub-1]
-        else:
+        if lb==ub:
             return [-1,-1]
+        else:
+            return [lb,ub-1]
 
