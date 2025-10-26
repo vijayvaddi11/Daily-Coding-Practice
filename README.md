@@ -75,6 +75,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0908-middle-of-the-linked-list](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0941-sort-array-by-parity) |
 ## String
 |  |
@@ -182,4 +183,8 @@ To build consistency and strong problem-solving skills! 🚀.
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0948-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
