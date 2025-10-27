@@ -186,5 +186,6 @@ To build consistency and strong problem-solving skills! 🚀.
 ## Linked List
 |  |
 | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
