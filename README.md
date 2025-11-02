@@ -73,6 +73,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -123,6 +124,7 @@ To build consistency and strong problem-solving skills! 🚀.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0001-two-sum) |
+| [0142-linked-list-cycle-ii](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -198,6 +200,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | [0021-merge-two-sorted-lists](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0142-linked-list-cycle-ii](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0234-palindrome-linked-list) |
