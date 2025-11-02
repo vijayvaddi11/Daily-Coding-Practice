@@ -105,6 +105,7 @@ To build consistency and strong problem-solving skills! 🚀.
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0234-palindrome-linked-list) |
@@ -194,6 +195,7 @@ To build consistency and strong problem-solving skills! 🚀.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0160-intersection-of-two-linked-lists) |
