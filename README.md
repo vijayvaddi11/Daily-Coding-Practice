@@ -94,6 +94,7 @@ To build consistency and strong problem-solving skills! 🚀.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0231-power-of-two) |
@@ -106,6 +107,7 @@ To build consistency and strong problem-solving skills! 🚀.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0231-power-of-two) |
@@ -196,6 +198,7 @@ To build consistency and strong problem-solving skills! 🚀.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0061-rotate-list) |
