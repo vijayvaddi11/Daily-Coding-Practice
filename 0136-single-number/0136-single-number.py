@@ -1,5 +1,6 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
+        #tc-O(n) sc-O(1)
         result=0
         for num in nums:
             result^=num
