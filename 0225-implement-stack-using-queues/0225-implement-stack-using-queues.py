@@ -2,23 +2,22 @@ class MyStack:
 
     def __init__(self):
         self.q1=[]
-        self.q2=[]
-        self.front=0
+        
 
     def push(self, x: int) -> None:
         self.q1.append(x)
+        
+        for i in range(len(self.q1)-1):
+            self.q1.append(self.q1.pop(0))
 
     def pop(self) -> int:
-        # while self.q1:
-        #     self.q2.append(self.q1.pop())
-        # x=self.q2[0]
-        # while self.q2:
-        #     self.q1.append(self.q1.pop())
-        x=self.q1.pop()
+        x=self.q1[0]
+        self.q1.pop(0)
         return x
+     
 
     def top(self) -> int:
-        return self.q1[-1]
+        return self.q1[0]
 
     def empty(self) -> bool:
         return len(self.q1)==0
