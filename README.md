@@ -87,6 +87,7 @@ To build consistency and strong problem-solving skills! 🚀.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0151-reverse-words-in-a-string) |
@@ -220,6 +221,7 @@ To build consistency and strong problem-solving skills! 🚀.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0232-implement-queue-using-stacks) |
