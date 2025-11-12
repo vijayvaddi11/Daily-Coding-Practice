@@ -7,55 +7,49 @@
 
 class Queue:
     def __init__(self):
-        self.q=[]
-        self.front=-1
+        self.q = []
+        self.front = -1
     
-    def push(self,x):
-        if self.front==-1:
-            self.front=0
+    def push(self, x):
+        if self.front == -1:
+            self.front = 0
         self.q.append(x)
     
     def pop(self):
-        if self.front == -1:
+        if self.front == -1 or self.front == len(self.q):
             return -1
-        x= self.q[self.front]
-        self.front+=1
+        x = self.q[self.front]
+        self.front += 1
         if self.front == len(self.q):
-            self.front=-1
-            self.q=[]
-        return x
-    def getFront(self):
-        if self.front ==-1:
-            return -1
-        x=self.q[self.front]
-        return x
+            self.front = -1
+            self.q = []
+        return x  # ✅ return popped node
+
     def size(self):
-        if self.front==-1:
+        if self.front == -1:
             return 0
-        return len(self.q)-self.front
+        return len(self.q) - self.front
+
 
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-        ans=[]
+        ans = []
         if root is None:
             return ans
-        queue=Queue()
-        queue.push(root)
-        ans.append([root.val])
-
-        while queue.size()>0:
-            l=queue.size()
-            level=[]
-            for i in range(l):
-                front=queue.pop()
-                if front.left!=None:
-                    queue.push(front.left)
-                    level.append(front.left.val)
-                if front.right!=None:
-                    queue.push(front.right)
-                    level.append(front.right.val)
-            if len(level)>0:
-                ans.append(level)
-        return ans
-
         
+        queue = Queue()
+        queue.push(root)
+
+        while queue.size() > 0:
+            l = queue.size()
+            level = []
+            for i in range(l):
+                front = queue.pop()
+                level.append(front.val)
+                if front.left:
+                    queue.push(front.left)
+                if front.right:
+                    queue.push(front.right)
+            ans.append(level)
+        
+        return ans
