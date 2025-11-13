@@ -45,5 +45,6 @@ class Solution:
                 if front.right:
                     q.push(front.right)
             ans.append(level)
-        return ans[::-1]
+        ans.reverse()
+        return ans
 
