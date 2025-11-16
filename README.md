@@ -246,6 +246,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | [0144-binary-tree-preorder-traversal](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -263,6 +264,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | [0144-binary-tree-preorder-traversal](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0783-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -272,4 +274,8 @@ To build consistency and strong problem-solving skills! 🚀.
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
