@@ -15,7 +15,7 @@ class MinHeap:
             self.h(parent),self.h[i]=self.h[i],self.h[parent]
             i=parent
     def pop(self):
-        if self.h is None:
+        if len(self.h) is None:
             return None
         self.h[0],self.h[-1]=self.h[-1],self.h[0]
         val=self.h.pop()
