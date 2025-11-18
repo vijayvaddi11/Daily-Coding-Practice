@@ -1,5 +1,5 @@
 # parent = (i-1)//2
-# left_child = 2*i+1
+# left_child = 2*i+1 
 # right_chilld = 2*i+2
 
 
