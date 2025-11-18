@@ -49,6 +49,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0215-kth-largest-element-in-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -143,6 +144,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | ------- |
 | [0075-sort-colors](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0948-sort-an-array) |
@@ -166,6 +168,7 @@ To build consistency and strong problem-solving skills! 🚀.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0948-sort-an-array) |
 ## Matrix
 |  |
@@ -192,6 +195,7 @@ To build consistency and strong problem-solving skills! 🚀.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -281,4 +285,8 @@ To build consistency and strong problem-solving skills! 🚀.
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0784-insert-into-a-binary-search-tree) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
