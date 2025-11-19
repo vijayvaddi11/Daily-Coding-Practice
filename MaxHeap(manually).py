@@ -13,7 +13,7 @@ class MaxHeap:
         if len(self.h) ==0:
             return None
         self.h[0],self.h[-1]=self.h[-1],self.h[0]
-        val=self.h.pop()
+        val=self.h.pop() 
         if self.h:
             self._down(0)
         return val
