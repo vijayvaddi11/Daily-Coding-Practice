@@ -64,6 +64,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | ------- |
 | [0053-maximum-subarray](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -106,6 +107,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | [0231-power-of-two](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -120,10 +122,12 @@ To build consistency and strong problem-solving skills! 🚀.
 | [0231-power-of-two](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
