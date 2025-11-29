@@ -1,7 +1,9 @@
 class Solution:
     def getConcatenation(self, nums: List[int]) -> List[int]:
-        dublicate_nums = nums.copy()
-        nums.extend(dublicate_nums)
+        nums.extend(nums)
         return nums
+
+        # Tc-O(n)
+        # Sc-O(1) no extra list created
 
         
