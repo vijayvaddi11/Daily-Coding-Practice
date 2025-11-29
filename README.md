@@ -59,6 +59,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | [1580-shuffle-the-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1791-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -134,6 +135,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | ------- |
 | [0412-fizz-buzz](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0874-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
