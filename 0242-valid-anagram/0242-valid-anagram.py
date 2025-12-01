@@ -39,17 +39,10 @@ class Solution:
             else:
                 return False
 
-        ans=0
         for val in freq.values():
-            if val<0:
+            if val<0 or val>0:
                 return False
-            else:
-                ans+=val
-        
-        if ans==0:
-            return True
-        else: 
-            return False
+        return True
         
         #using single hashmap more optimal than double 
         #space comp-O(n)
