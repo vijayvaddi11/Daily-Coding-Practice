@@ -1,5 +1,6 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
+        #using dict
         freq={}
         seen=set()
         for i in nums:
@@ -13,3 +14,5 @@ class Solution:
             if i>1:
                 return True
         return False
+
+
