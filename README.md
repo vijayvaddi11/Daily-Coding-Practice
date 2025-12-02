@@ -38,6 +38,7 @@ To build consistency and strong problem-solving skills! 🚀.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0035-search-insert-position) |
@@ -92,6 +93,7 @@ To build consistency and strong problem-solving skills! 🚀.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0125-valid-palindrome) |
@@ -301,4 +303,8 @@ To build consistency and strong problem-solving skills! 🚀.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
