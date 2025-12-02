@@ -9,16 +9,26 @@ class Solution:
         #     res+=strs[0][i]
         # return res
 
-        smallest = min(strs, key=len)
-        res=''
 
-        for i in range(len(smallest)):
+        #vertical scanning
+        # smallest = min(strs, key=len)
+        # res=''
+
+        # for i in range(len(smallest)):
     
-            current = smallest[i]
+        #     current = smallest[i]
     
-            for s in strs:
-                if s[i]!= current:
-                    return res
-            res+=current
-        return res
+        #     for s in strs:
+        #         if s[i]!= current:
+        #             return res
+        #     res+=current
+        # return res
         
+
+
+        #Horizontal scanning
+        prefix = strs[0]
+        for i in range(1,len(strs)):
+            while strs[i].startswith(prefix)==False:
+                prefix = prefix[:-1]
+        return prefix
