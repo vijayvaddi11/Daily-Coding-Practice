@@ -52,6 +52,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -151,6 +152,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | [0049-group-anagrams](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -162,6 +164,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | [0049-group-anagrams](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0242-valid-anagram) |
@@ -172,6 +175,7 @@ To build consistency and strong problem-solving skills! 🚀.
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0948-sort-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -188,6 +192,7 @@ To build consistency and strong problem-solving skills! 🚀.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0948-sort-an-array) |
 ## Matrix
