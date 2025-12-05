@@ -23,7 +23,7 @@ class MyHashMap:
 
 
     def get(self, key: int) -> int:
-        curr = self.map[self.getHash(key)]
+        curr = self.map[self.getHash(key)].next #skip dummy node
 
         while curr:
             if curr.key == key:
