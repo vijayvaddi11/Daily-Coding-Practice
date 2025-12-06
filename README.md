@@ -60,6 +60,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | [0706-design-hashmap](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0706-design-hashmap) |
 | [0792-binary-search](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0912-sort-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -173,6 +174,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | [0217-contains-duplicate](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0912-sort-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -181,6 +183,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | ------- |
 | [0169-majority-element](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0912-sort-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
@@ -198,6 +201,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | [0053-maximum-subarray](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0948-sort-an-array) |
 ## Matrix
 |  |
@@ -225,18 +229,22 @@ To build consistency and strong problem-solving skills! 🚀.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0948-sort-an-array) |
 ## Linked List
 |  |
