@@ -55,6 +55,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | [0169-majority-element](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0705-design-hashset](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0706-design-hashmap) |
@@ -158,6 +159,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | [0169-majority-element](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0705-design-hashset](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0705-design-hashset) |
@@ -173,6 +175,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | [0215-kth-largest-element-in-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0941-sort-array-by-parity) |
@@ -182,6 +185,7 @@ To build consistency and strong problem-solving skills! 🚀.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0948-sort-an-array) |
@@ -201,6 +205,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | [0053-maximum-subarray](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0948-sort-an-array) |
 ## Matrix
@@ -229,6 +234,7 @@ To build consistency and strong problem-solving skills! 🚀.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0948-sort-an-array) |
 ## Merge Sort
@@ -239,6 +245,7 @@ To build consistency and strong problem-solving skills! 🚀.
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0948-sort-an-array) |
 ## Radix Sort
@@ -330,6 +337,7 @@ To build consistency and strong problem-solving skills! 🚀.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Trie
 |  |
 | ------- |
