@@ -55,6 +55,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | [0169-majority-element](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0705-design-hashset](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0705-design-hashset) |
@@ -198,6 +199,7 @@ To build consistency and strong problem-solving skills! 🚀.
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1603-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
