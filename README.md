@@ -43,6 +43,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | [0027-remove-element](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0074-search-a-2d-matrix) |
@@ -154,6 +155,7 @@ To build consistency and strong problem-solving skills! 🚀.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -213,6 +215,7 @@ To build consistency and strong problem-solving skills! 🚀.
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0074-search-a-2d-matrix) |
 | [1791-richest-customer-wealth](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/1791-richest-customer-wealth) |
 ## Binary Search
