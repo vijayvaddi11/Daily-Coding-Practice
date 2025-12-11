@@ -22,10 +22,11 @@ class Solution:
                 for j in range(3):
                     row = (square//3) * 3 + i
                     col = (square % 3) * 3 + j
-                    if n[row][col] == ".":
-                        continue
                     if n[row][col] in seen:
                         return False
-                    seen.add(n[row][col])
+                        break
+                    else:
+                        if n[row][col]!='.':
+                            seen.add(n[row][col])
         return True
         
