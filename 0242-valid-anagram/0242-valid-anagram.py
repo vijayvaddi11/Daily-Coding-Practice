@@ -22,31 +22,40 @@ class Solution:
         # return True
 
 
-        if len(s)!= len(t):
-            return False 
+        # if len(s)!= len(t):
+        #     return False 
 
-        freq={}
+        # freq={}
 
-        for i in s:
-            if i not in freq:
-                freq[i]=1
-            else:
-                freq[i]+=1
+        # for i in s:
+        #     if i not in freq:
+        #         freq[i]=1
+        #     else:
+        #         freq[i]+=1
         
-        for j in t:
-            if j in freq:
-                freq[j]-=1
-            else:
-                return False
+        # for j in t:
+        #     if j in freq:
+        #         freq[j]-=1
+        #     else:
+        #         return False
 
-        for val in freq.values():
-            if val<0 or val>0:
-                return False
-        return True
+        # for val in freq.values():
+        #     if val<0 or val>0:
+        #         return False
+        # return True
         
         #using single hashmap more optimal than double 
         #space comp-O(n)
         #time Comp-O(n)
+
+
+
+
+        if len(s)!= len(t):
+            return False
+        return sorted(s)==sorted(t)
+
+
         
 
         
