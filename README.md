@@ -58,6 +58,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | [0215-kth-largest-element-in-an-array](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0705-design-hashset](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0705-design-hashset) |
@@ -96,6 +97,7 @@ To build consistency and strong problem-solving skills! 🚀.
 | [0160-intersection-of-two-linked-lists](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0874-backspace-string-compare](https://github.com/vijayvaddi11/Daily-Coding-Practice/tree/master/0874-backspace-string-compare) |
