@@ -1,5 +1,3 @@
- 
-
 # class ParkingSlot:
 #     def __init__(self,bike_slots,car_slots):
 #         self.bike_slots = bike_slots
@@ -124,4 +122,21 @@
 
 # print(cart.total())
 
+
+
+
+
+class URL:
+    def __init__(self):
+        self.map ={}
+    
+    def shorten(self,shorter,longer):
+        self.map[shorter]=longer
+    
+    def get(self,shorter):
+        return self.map.get(shorter)
+
+u=URL()
+u.shorten('yt','www.youtube.com')
+print(u.get('yt'))
 
