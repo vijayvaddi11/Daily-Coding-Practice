@@ -126,17 +126,50 @@
 
 
 
-class URL:
-    def __init__(self):
-        self.map ={}
+# class URL:
+#     def __init__(self):
+#         self.map ={}
     
-    def shorten(self,shorter,longer):
-        self.map[shorter]=longer
+#     def shorten(self,shorter,longer):
+#         self.map[shorter]=longer
     
-    def get(self,shorter):
-        return self.map.get(shorter)
+#     def get(self,shorter):
+#         return self.map.get(shorter)
 
-u=URL()
-u.shorten('yt','www.youtube.com')
-print(u.get('yt'))
+# u=URL()
+# u.shorten('yt','www.youtube.com')
+# print(u.get('yt'))
+
+
+
+        
+class Restaurant:
+    def __init__(self):
+        self.menu={}
+    
+    def add_item(self,name,price):
+        self.menu[name]= price
+        
+    def get_items(self):
+        return self.menu
+    
+
+class Order:
+    def __init__(self,restaurant):
+        self.restaurant=restaurant
+        self.cart = {}
+        self.status:"Not placed"
+        
+    def add_to_cart(self,item):
+        if item in self.restaurant.menu:
+            self.cart[item]=self.restaurant.menu[item]
+    
+    def total(self):
+        return sum(self.cart.values())
+    
+    def place_order(self):
+        if self.cart:
+            self.status="placed"
+            return "placed"
+        return "Empty"
 
